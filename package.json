@@ -1,0 +1,17 @@
+{
+  "name": "first-docker-app",
+  "version": "1.0.0",
+  "description": "first containerization",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
